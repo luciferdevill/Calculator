@@ -1,1 +1,1 @@
-# This calculator works on terminal and made in python with loop statement very basic <b> If You want to run this just clone this in you vs code and run it.
+# This calculator works on terminal and made in python with loop statement very basic <br> If You want to run this just clone this in you vs code and run it.
